@@ -1,5 +1,4 @@
 # Treasure Hunt
-========================
 
 ![alt text](https://raw.githubusercontent.com/svnbhsn/TreasureHunt/master/preview.png)
 
